@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0036-valid-sudoku) |
 | [0238-product-of-array-except-self](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Prefix Sum
 |  |
@@ -16,8 +17,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0036-valid-sudoku) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0036-valid-sudoku) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 <!---LeetCode Topics End-->
