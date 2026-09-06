@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0036-valid-sudoku) |
 | [0238-product-of-array-except-self](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -26,9 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0125-valid-palindrome) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
