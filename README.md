@@ -33,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0125-valid-palindrome) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0125-valid-palindrome) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -57,4 +59,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0011-container-with-most-water) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
