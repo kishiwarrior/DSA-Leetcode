@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0036-valid-sudoku) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0835-image-overlap](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0835-image-overlap) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -63,5 +64,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
