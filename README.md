@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Matrix
@@ -89,11 +92,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Math
 |  |
 | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Combinatorics
 |  |
