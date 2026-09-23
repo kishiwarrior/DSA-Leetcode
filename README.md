@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Prefix Sum
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Matrix
 |  |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -133,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Binary Search
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
