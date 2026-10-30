@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0503-next-greater-element-ii](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0735-asteroid-collision) |
 | [0835-image-overlap](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0735-asteroid-collision) |
 | [3498-reverse-degree-of-a-string](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
