@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0036-valid-sudoku) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0503-next-greater-element-ii](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0835-image-overlap](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -148,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
