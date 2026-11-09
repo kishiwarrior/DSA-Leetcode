@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0735-asteroid-collision) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3498-reverse-degree-of-a-string](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
@@ -135,10 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Ordered Set
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Monotonic Queue
 |  |
 | ------- |
