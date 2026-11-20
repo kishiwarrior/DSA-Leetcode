@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3903-smallest-stable-index-i](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Prefix Sum
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/0015-3sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Tree
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kishiwarrior/DSA-Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Sliding Window
 |  |
 | ------- |
